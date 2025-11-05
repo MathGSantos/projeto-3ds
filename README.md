@@ -25,4 +25,4 @@ Aqui você encontrará:
 🎥 **Prévia do Projeto**
 Veja abaixo o demonstrativo do modelo 3D:
 
-[▶️ Assistir vídeo](./rigging_kitsune.mp4)
+[▶️ Vídeo Kitsune Tail](./rigging_kitsune.mp4)
