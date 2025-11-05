@@ -22,3 +22,7 @@ Aqui você encontrará:
 - 💻 **Testes de integração web** (ex.: cenas interativas em HTML/JS)
 
 ---
+🎥 **Prévia do Projeto**
+Veja abaixo o demonstrativo do modelo 3D:
+
+[▶️ Assistir vídeo](./rigging_kitsune.mp4)
